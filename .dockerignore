@@ -1,0 +1,10 @@
+###################### archivos y carpetas a ignorar por Dockerfile
+.scannetwork
+coverage
+node_modules
+src
+test
+.gitignore
+README.md
+sonar-project.properties
+package-lock.json
